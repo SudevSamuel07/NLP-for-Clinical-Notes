@@ -1,0 +1,26 @@
+{
+  "icd10": {
+    "E11.9": "Type 2 diabetes mellitus without complications",
+    "I10": "Essential hypertension",
+    "O26.89": "Other specified pregnancy-related conditions",
+    "J44.1": "Chronic obstructive pulmonary disease with acute exacerbation",
+    "K35.9": "Acute appendicitis, unspecified",
+    "I21.9": "Acute myocardial infarction, unspecified",
+    "J18.9": "Pneumonia, unspecified organism",
+    "Z12.11": "Encounter for screening for malignant neoplasm of colon",
+    "E78.5": "Hyperlipidemia, unspecified",
+    "M79.3": "Panniculitis, unspecified"
+  },
+  "cpt": {
+    "99213": "Office or other outpatient visit for the evaluation and management of an established patient, typically 15 minutes",
+    "99214": "Office or other outpatient visit for the evaluation and management of an established patient, typically 25 minutes",
+    "99232": "Subsequent hospital care, per day, for the evaluation and management of a patient",
+    "93000": "Electrocardiogram, routine ECG with at least 12 leads",
+    "71020": "Radiologic examination, chest, 2 views, frontal and lateral",
+    "44970": "Laparoscopy, surgical, appendectomy",
+    "45378": "Colonoscopy, flexible; diagnostic, including collection of specimen(s)",
+    "80053": "Comprehensive metabolic panel",
+    "85025": "Blood count; complete (CBC), automated",
+    "36415": "Collection of venous blood by venipuncture"
+  }
+}
