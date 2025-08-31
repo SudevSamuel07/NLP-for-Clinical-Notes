@@ -1,0 +1,9 @@
+text,icd_codes,cpt_codes
+Patient is a 45-year-old male with a history of type 2 diabetes mellitus without complications. He presents today for routine follow-up. Blood glucose levels have been well controlled on metformin. Physical examination is unremarkable. Will continue current diabetes management.,['E11.9'],['99213']
+67-year-old female with essential hypertension presents for blood pressure check. Current BP is 145/92. Patient has been compliant with lisinopril therapy. Will increase dosage and schedule follow-up in 4 weeks.,['I10'],['99213']
+35-year-old pregnant female at 32 weeks gestation presents with shortness of breath. Physical exam reveals mild lower extremity edema. Fetal heart tones are reassuring. Will monitor closely.,['O26.89'],['99213']
+Patient has chronic obstructive pulmonary disease with acute exacerbation. Presents with increased dyspnea and productive cough. Will start prednisone and antibiotics.,['J44.1'],['99214']
+28-year-old male presents with acute appendicitis. Physical exam shows McBurney's point tenderness. Patient scheduled for laparoscopic appendectomy.,['K35.9'],['44970']
+Patient with coronary artery disease presents with chest pain. EKG shows ST changes. Cardiac enzymes are elevated. Diagnosed with myocardial infarction.,['I21.9'],"['99232', '93000']"
+65-year-old female with pneumonia. Chest X-ray shows right lower lobe infiltrate. Started on antibiotic therapy.,['J18.9'],"['99214', '71020']"
+Patient presents for routine colonoscopy screening. Procedure completed without complications. No polyps found.,['Z12.11'],['45378']
