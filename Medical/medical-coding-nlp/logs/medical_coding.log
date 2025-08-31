@@ -1,0 +1,4 @@
+2025-08-31 11:28:59,285 - __main__ - INFO - Project setup completed
+2025-08-31 11:28:59,305 - __main__ - INFO - Starting web application...
+2025-08-31 11:28:59,791 - __main__ - ERROR - Web application failed: No module named 'flask_cors'
+2025-08-31 11:28:59,791 - __main__ - ERROR - Command failed!
