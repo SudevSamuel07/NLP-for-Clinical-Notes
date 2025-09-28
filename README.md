@@ -1,4 +1,4 @@
-n    # Medical Notes ICD/CPT Auto-Coding System
+# Medical Notes ICD/CPT Auto-Coding System
 ## Overview
 This project implements an NLP-based system for automatically suggesting ICD-10 diagnosis codes and CPT procedure codes from clinical notes. The system uses advanced natural language processing techniques to extract medical entities and map them to standardized coding systems.
 
